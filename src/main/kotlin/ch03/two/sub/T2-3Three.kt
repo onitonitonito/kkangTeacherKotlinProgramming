@@ -1,6 +1,6 @@
 package ch03.two.sub
 
-class T2_03Three(arg : String) {
+class `T2-3Three`(arg : String) {
   val describe = arg
 
   fun t2_one(): String {

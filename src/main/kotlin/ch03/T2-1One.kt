@@ -1,5 +1,5 @@
 package ch03
 
-class T2_01One {
+class `T2-1One` {
   val description = "THIS IS DESCRIPTION!"
 }
